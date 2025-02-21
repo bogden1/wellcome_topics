@@ -30,6 +30,7 @@ isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.5
 json5==0.10.0
+jsonpath-ng==1.7.0
 jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
@@ -57,6 +58,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.3.6
+ply==3.11
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
 psutil==6.1.1
