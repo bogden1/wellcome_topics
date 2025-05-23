@@ -34,6 +34,8 @@ def dumpCount(jsonpath, jsonl_list, min_entry_proportion = 0):
       print(output, k)
     else:
       below_min += 1
+  if emptyCount > 0 or below_min > 0:
+    print() #Space things out if we need to append this stuff
   if emptyCount > 0:
     output = f'{emptyCount:4}/{list_total} entries ({100 * emptyCount/list_total:3.0f}%)'
     if list_total != query_total:
