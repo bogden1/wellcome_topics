@@ -2,6 +2,19 @@ from jsonpath_ng.ext import parse as json_parse
 from collections import Counter
 import re
 
+def down(number, scale):
+  return scale * int(number / scale)
+
+def up(number, scale):
+  return down(number, scale) + scale
+
+def list_by_jsonpath(jsonpath, jsonl_list):
+  retval = []
+  searcher = json_parse(jsonpath)
+  for jsonl in jsonl_list:
+    retval.extend([x.value for x in searcher.find(jsonl)])
+  return retval
+
 #Return a counter keyed on the value of query that matched the elements of jsonl_list
 def count(jsonpath, jsonl_list):
   empty = 0
