@@ -1,6 +1,21 @@
 from jsonpath_ng.ext import parse as json_parse
 from collections import Counter
+import requests
 import re
+
+def expect_one(a_list):
+  length = len(a_list)
+  if length == 0:
+    raise Exception('List is empty')
+  if length > 1:
+    raise Exception(f'List has more than one ({length}) entries')
+  return a_list[0]
+
+def get(url):
+  response = requests.get(url)
+  if response.status_code != 200:
+    raise Exception(f'HTTP error {repsonse.status_code} getting {url}')
+  return response
 
 def down(number, scale):
   return scale * int(number / scale)
