@@ -11,8 +11,8 @@ def expect_one(a_list):
     raise Exception(f'List has more than one ({length}) entries')
   return a_list[0]
 
-def get(url):
-  response = requests.get(url)
+def get(url, params = {}):
+  response = requests.get(url, params = params)
   if response.status_code != 200:
     raise Exception(f'HTTP error {repsonse.status_code} getting {url}')
   return response
@@ -74,24 +74,3 @@ def dumpCount(jsonpath, jsonl_list, min_entry_proportion = 0):
     if list_total != query_total:
       output += f'; {below_min:4}/{query_total} hits ({100 * below_min/query_total:3.0f}%)'
     print(output, f'non-empty results hidden as below minimum entry proportion of {min_entry_proportion * 100:.0f}%')
-
-#return Markdown-formatted list of titles and the label identified by the jsonpath
-#assumes that the entity identified by the jsonpath will have both 'label' and 'id' properties
-def dump_labels(jsonl_list, jsonpath, entity_name, emphasis_re = ''):
-  searcher = json_parse(jsonpath)
-  output = []
-  for work in jsonl_list:
-    labelled_things = searcher.find(work)
-    output.append(f'* {work["title"]} (id: {work["id"]}) [**{len(labelled_things)}** {entity_name}]')
-    for labelled_thing in labelled_things:
-      label, id = (labelled_thing.value["label"], labelled_thing.value["id"]);
-      x = f'{label} (id: {id})'
-      if emphasis_re and re.match(emphasis_re, label):
-        output.append(f'  * **{x}**')
-      else:
-        output.append(f'  *   {x}')
-  return output
-
-#return the subset of jsonl_list that has an id in work_ids
-def works_by_ids(jsonl_list, work_ids):
-  return list(filter(lambda x: x['id'] in work_ids, jsonl_list))
