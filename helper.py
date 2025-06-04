@@ -14,7 +14,7 @@ def expect_one(a_list):
 def get(url, params = {}):
   response = requests.get(url, params = params)
   if response.status_code != 200:
-    raise Exception(f'HTTP error {repsonse.status_code} getting {url}')
+    raise Exception(f'HTTP error {response.status_code} getting {url} with {params}')
   return response
 
 def down(number, scale):
