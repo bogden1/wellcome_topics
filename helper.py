@@ -3,6 +3,9 @@ from collections import Counter
 import requests
 import re
 
+def markdown_n_list(sequence, connector = '\n\n'):
+  return connector.join([f'1. ``{item}``' for item in sequence])
+
 def expect_one(a_list):
   length = len(a_list)
   if length == 0:
