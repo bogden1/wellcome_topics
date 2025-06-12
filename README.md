@@ -11,7 +11,7 @@ In principle you should be able to deploy in different notebook environments.
 The only method that I have actually tested is to run my own Jupyter server, for example:
 
 ```
-git clone wellcome_topics
+git clone https://github.com/bogden1/wellcome_topics.git
 cd wellcome_topics
 mkvirtualenv wellcome_topics #Optional, but strongly recommended
 pip install -r requirements.txt
