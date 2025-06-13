@@ -18,6 +18,10 @@ pip install -r requirements.txt
 jupyter lab --ServerApp.iopub_data_rate_limit 10000000
 ```
 
+## Presentations
+
+This repository also contains [presentations](presentations/README.md) delivered during the project.
+
 ## Acknowledgements
 
 This notebook is an output from the [TNA/RLUK Professional Fellowship](https://www.rluk.ac.uk/) "Collaborative Experimentation: Research Software Prototyping for Co-Learning and Exploration in Cultural Heritage", which investigated RSE-led prototyping as a method of interdisciplinary collaboration and co-learning in digital cultural heritage.
