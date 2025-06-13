@@ -2,6 +2,8 @@
 
 This folder contains presentations delivered during the project.
 
+Be aware that a lot of the information is in the presenter notes.
+
 Presentation | Date (all in 2024) | Subject
 --- | --- | ---
 [Collaborative Experimentation](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit1.pptx) | Wednesday 1<sup>st</sup> May | Introduction to the project.
