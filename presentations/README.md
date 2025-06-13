@@ -2,15 +2,15 @@
 
 This folder contains presentations delivered during the project.
 
-Presentation | Date | Subject 
+Presentation | Date (all in 2024) | Subject
 --- | --- | ---
-[Collaborative Experimentation](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit1.pptx) | Wednesday 1<sup>st</sup> May 2024  | Introduction to the project.
-[Adventures in Topic Modelling](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit2.pptx) | Wednesday 5<sup>th</sup> June 2024 | First exploration of topic modelling, using HaToRI.
-[Further Adventures in Topic Modelling](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit3.pptx) | Wednesday 24<sup>th</sup> July 2024 | Topic modelling with some custom views.
-[Chunks and Comparisons](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit4.pptx) | Wednesday 25<sup>th</sup> September 2024 | Topic modelling with named entity removal, or based on texts divided into smaller chunks.
-[Collaborative Experimentation: The Story So Far](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit5.1.pptx) | Tuesday 12<sup>th</sup> November 2024 | Summary of work to date, attempting to refocus around audiences.
-[Dream Tools](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit5.2.pptx) | Thursday 14<sup>th</sup> November 2024 | "Dream tools" exercise for exploring digital possibilities.
-[Wrapping Up](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit5.3.pptx) | Thursday 21<sup>st</sup> November 2024 | Reflections upon the project, particularly around audiences and digital methods to serve them.
+[Collaborative Experimentation](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit1.pptx) | Wednesday 1<sup>st</sup> May | Introduction to the project.
+[Adventures in Topic Modelling](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit2.pptx) | Wednesday 5<sup>th</sup> June | First exploration of topic modelling, using HaToRI.
+[Further Adventures in Topic Modelling](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit3.pptx) | Wednesday 24<sup>th</sup> July | Topic modelling with some custom views.
+[Chunks and Comparisons](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit4.pptx) | Wednesday 25<sup>th</sup> September | Topic modelling with named entity removal, or based on texts divided into smaller chunks.
+[Collaborative Experimentation: The Story So Far](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit5.1.pptx) | Tuesday 12<sup>th</sup> November | Summary of work to date, attempting to refocus around audiences.
+[Dream Tools](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit5.2.pptx) | Thursday 14<sup>th</sup> November | "Dream tools" exercise for exploring digital possibilities.
+[Wrapping Up](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit5.3.pptx) | Thursday 21<sup>st</sup> November | Reflections upon the project, particularly around audiences and digital methods to serve them.
 
 ## Accessibility
 
