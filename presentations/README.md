@@ -4,13 +4,13 @@ This folder contains presentations delivered during the project.
 
 Presentation | Date | Subject 
 --- | --- | ---
-[Collaborative Experimentation](visit1.pptx) | Wednesday 1<sup>st</sup> May 2024  | Introduction to the project.
-[Adventures in Topic Modelling](visit2.pptx) | Wednesday 5<sup>th</sup> June 2024 | First exploration of topic modelling, using HaToRI.
-[Further Adventures in Topic Modelling](visit3.pptx) | Wednesday 24<sup>th</sup> July 2024 | Topic modelling with some custom views.
-[Chunks and Comparisons](visit4.pptx) | Wednesday 25<sup>th</sup> September 2024 | Topic modelling with named entity removal, or based on texts divided into smaller chunks.
-[Collaborative Experimentation: The Story So Far](visit5.1.pptx) | Tuesday 12<sup>th</sup> November 2024 | Summary of work to date, attempting to refocus around audiences.
-[Dream Tools](visit5.2.pptx) | Thursday 14<sup>th</sup> November 2024 | "Dream tools" exercise for exploring digital possibilities.
-[Wrapping Up](visit5.3.pptx) | Thursday 21<sup>st</sup> November 2024 | Reflections upon the project, particularly around audiences and digital methods to serve them.
+[Collaborative Experimentation](visit1.pptx?raw=1) | Wednesday 1<sup>st</sup> May 2024  | Introduction to the project.
+[Adventures in Topic Modelling](visit2.pptx?raw=1) | Wednesday 5<sup>th</sup> June 2024 | First exploration of topic modelling, using HaToRI.
+[Further Adventures in Topic Modelling](visit3.pptx?raw=1) | Wednesday 24<sup>th</sup> July 2024 | Topic modelling with some custom views.
+[Chunks and Comparisons](visit4.pptx?raw=1) | Wednesday 25<sup>th</sup> September 2024 | Topic modelling with named entity removal, or based on texts divided into smaller chunks.
+[Collaborative Experimentation: The Story So Far](visit5.1.pptx?raw=1) | Tuesday 12<sup>th</sup> November 2024 | Summary of work to date, attempting to refocus around audiences.
+[Dream Tools](visit5.2.pptx?raw=1) | Thursday 14<sup>th</sup> November 2024 | "Dream tools" exercise for exploring digital possibilities.
+[Wrapping Up](visit5.3.pptx?raw=1) | Thursday 21<sup>st</sup> November 2024 | Reflections upon the project, particularly around audiences and digital methods to serve them.
 
 ## Accessibility
 
