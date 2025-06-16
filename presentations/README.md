@@ -4,6 +4,8 @@ This folder contains presentations delivered during the project.
 
 Be aware that a lot of the information is in the presenter notes.
 
+**Content Warning** These presentations include visualisations generated from historical texts. There is potential for these to surface offensive material. To the best of my knowledge this only happens in the "Chunks and Comparisons" presentation and I have included a slide at the beginning of this presentation with a specific warning.
+
 Presentation | Date (all in 2024) | Subject
 --- | --- | ---
 [Collaborative Experimentation](https://github.com/bogden1/wellcome_topics/raw/main/presentations/visit1.pptx) | Wednesday 1<sup>st</sup> May | Introduction to the project.
