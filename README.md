@@ -20,7 +20,7 @@ jupyter lab --ServerApp.iopub_data_rate_limit 10000000
 
 ## Presentations
 
-This repository also contains [presentations](presentations/README.md) delivered during the project.
+This repository also contains [presentations](presentations/README.md) and a [poster](poster/README.md) delivered during the project.
 
 ## Acknowledgements
 
