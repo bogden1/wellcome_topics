@@ -1,6 +1,8 @@
 # Poster
 
-This folder contains a poster about this project, originally displayed as part of The National Archives' 2024 [Annual Digital Lecture](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/research-events/annual-digital-lecture/). You can get it in [PDF](https://github.com/bogden1/wellcome_topics/raw/main/poster/adl_2024_topic_modelling_historical_medical_texts.pdf) or [PowerPoint](https://github.com/bogden1/wellcome_topics/raw/main/poster/adl_2024_topic_modelling_historical_medical_texts.pptx) format.
+This folder contains a poster about this project, originally displayed as part of The National Archives' 2024 [Annual Digital Lecture](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/research-events/annual-digital-lecture/). You can see it below, or visit a more [accessible SVG version](https://htmlpreview.github.io/?https://github.com/bogden1/wellcome_topics/main/poster/adl_2024_topic_modelling_historical_medical_texts.html), or download in [PDF](https://github.com/bogden1/wellcome_topics/raw/main/poster/adl_2024_topic_modelling_historical_medical_texts.pdf) or [PowerPoint](https://github.com/bogden1/wellcome_topics/raw/main/poster/adl_2024_topic_modelling_historical_medical_texts.pptx) format.
+
+![Poster about using topic models to explore Wellcome Collection. Text boxes describe the project. Six word clouds depict topics.](https://github.com/bogden1/wellcome_topics/raw/main/poster/adl_2024_topic_modelling_historical_medical_texts.png)
 
 ## Accessibility
 
